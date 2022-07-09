@@ -1,0 +1,11 @@
+{
+    "cSpell.ignoreWords": [
+        "SIG_BLOCK"
+    ],
+    "C_Cpp.intelliSenseEngineFallback": "Disabled", //需要添加的
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "files.associations": {
+        "*.py": "python",
+        "cstdlib": "cpp"
+    }, //  需要添加的
+}
